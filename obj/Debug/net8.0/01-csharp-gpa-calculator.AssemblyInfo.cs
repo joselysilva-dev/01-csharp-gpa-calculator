@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01-csharp-gpa-calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c3bdd25f4192a798267848fb7124f09000b4ba2")]
 [assembly: System.Reflection.AssemblyProductAttribute("01-csharp-gpa-calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01-csharp-gpa-calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
