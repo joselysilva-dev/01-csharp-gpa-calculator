@@ -1,0 +1,14 @@
+C:\Users\Usuário\Documents\01-csharp-gpa-calculator\bin\Debug\net8.0\01-csharp-gpa-calculator.exe
+C:\Users\Usuário\Documents\01-csharp-gpa-calculator\bin\Debug\net8.0\01-csharp-gpa-calculator.deps.json
+C:\Users\Usuário\Documents\01-csharp-gpa-calculator\bin\Debug\net8.0\01-csharp-gpa-calculator.runtimeconfig.json
+C:\Users\Usuário\Documents\01-csharp-gpa-calculator\bin\Debug\net8.0\01-csharp-gpa-calculator.dll
+C:\Users\Usuário\Documents\01-csharp-gpa-calculator\bin\Debug\net8.0\01-csharp-gpa-calculator.pdb
+C:\Users\Usuário\Documents\01-csharp-gpa-calculator\obj\Debug\net8.0\01-csharp-gpa-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\01-csharp-gpa-calculator\obj\Debug\net8.0\01-csharp-gpa-calculator.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\01-csharp-gpa-calculator\obj\Debug\net8.0\01-csharp-gpa-calculator.AssemblyInfo.cs
+C:\Users\Usuário\Documents\01-csharp-gpa-calculator\obj\Debug\net8.0\01-csharp-gpa-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\01-csharp-gpa-calculator\obj\Debug\net8.0\01-csharp-gpa-calculator.dll
+C:\Users\Usuário\Documents\01-csharp-gpa-calculator\obj\Debug\net8.0\refint\01-csharp-gpa-calculator.dll
+C:\Users\Usuário\Documents\01-csharp-gpa-calculator\obj\Debug\net8.0\01-csharp-gpa-calculator.pdb
+C:\Users\Usuário\Documents\01-csharp-gpa-calculator\obj\Debug\net8.0\01-csharp-gpa-calculator.genruntimeconfig.cache
+C:\Users\Usuário\Documents\01-csharp-gpa-calculator\obj\Debug\net8.0\ref\01-csharp-gpa-calculator.dll
