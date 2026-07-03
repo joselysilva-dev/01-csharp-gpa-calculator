@@ -1,43 +1,39 @@
 # 🎓 GPA Calculator em C#
 
-Projeto desenvolvido durante meus estudos de C# e .NET.
-
-## 📋 Sobre o Projeto
-
-Esta aplicação calcula o GPA (Grade Point Average) de um aluno com base nas notas e créditos das disciplinas cursadas.
-
-O projeto foi criado para praticar:
-
-- Variáveis
-- Tipos de dados
-- Operações matemáticas
-- Conversão de tipos
-- Interpolação de strings
-- Saída formatada no console
+Projeto desenvolvido durante meus estudos de **C#** e **.NET 8**, com o objetivo de praticar os conceitos fundamentais da linguagem, lógica de programação e desenvolvimento de aplicações de console.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+# 📋 Sobre o Projeto
+
+O **GPA Calculator** (Grade Point Average Calculator) calcula a média ponderada (GPA) de um estudante com base nas notas e nos créditos das disciplinas cursadas.
+
+Este projeto foi desenvolvido como parte da minha jornada de aprendizado em C# e Engenharia de Software, aplicando boas práticas de programação e organização de código.
+
+---
+
+# 🚀 Tecnologias Utilizadas
 
 - C#
-- .NET 8
+- .NET 8 SDK
 - Visual Studio Code
 - Git
 - GitHub
 
 ---
 
-## 📊 Funcionalidades
+# 📊 Funcionalidades
 
-- Cadastro de disciplinas
-- Definição de notas
-- Definição de créditos
+- Cadastro do nome do estudante
+- Cadastro das disciplinas
+- Definição das notas
+- Definição dos créditos
 - Cálculo automático do GPA
-- Exibição formatada dos resultados
+- Exibição formatada dos resultados no console
 
 ---
 
-## ▶️ Como Executar
+# ▶️ Como Executar
 
 Clone o repositório:
 
@@ -45,13 +41,13 @@ Clone o repositório:
 git clone https://github.com/joselysilva-dev/01-csharp-gpa-calculator.git
 ```
 
-Entre na pasta:
+Entre na pasta do projeto:
 
 ```bash
 cd 01-csharp-gpa-calculator
 ```
 
-Execute:
+Execute a aplicação:
 
 ```bash
 dotnet run
@@ -59,7 +55,7 @@ dotnet run
 
 ---
 
-## 📁 Estrutura do Projeto
+# 📁 Estrutura do Projeto
 
 ```text
 01-csharp-gpa-calculator
@@ -72,7 +68,7 @@ dotnet run
 
 ---
 
-## 💡 Exemplo de Saída
+# 💻 Exemplo de Saída
 
 ```text
 ====================================
@@ -81,30 +77,56 @@ dotnet run
 
 Student: Josely Silva
 
+Course                    Grade   Credits
+-----------------------------------------
+English 101                 4        3
+Algebra 101                 3        3
+Biology 101                 3        4
+Computer Science I          3        4
+Psychology 101              4        3
+-----------------------------------------
+
 Final GPA: 3.35
 ```
 
 ---
 
-## 📚 Aprendizados
+# 📚 Aprendizados
 
-Durante este projeto foram praticados conceitos fundamentais de desenvolvimento em C#:
+Durante este projeto foram praticados os seguintes conceitos:
 
+- Lógica de programação
 - Declaração de variáveis
+- Tipos de dados
 - Operadores matemáticos
-- Conversão de tipos (casting)
+- Conversão de tipos (Casting)
 - Strings interpoladas
+- Saída formatada no Console
 - Organização de código
+- Desenvolvimento de aplicações Console
 - Controle de versão com Git
+- Publicação de projetos no GitHub
 
 ---
 
-## 👩‍💻 Autora
+# 🎯 Objetivo
+
+Este projeto faz parte do meu portfólio de estudos em **C#**, **.NET** e **Engenharia de Software**, demonstrando minha evolução prática durante a formação como desenvolvedora.
+
+---
+
+# 👩‍💻 Autora
 
 **Josely Silva Lima**
 
 🎓 Estudante de Engenharia de Software
 
+💻 Desenvolvedora Backend em formação
+
+☁️ Focada em C#, .NET, Cloud Computing e Engenharia de Software
+
 🔗 GitHub: https://github.com/joselysilva-dev
 
-🚀 Em constante evolução na área de Desenvolvimento Backend, Cloud Computing e Engenharia de Software.
+---
+
+⭐ Se este projeto foi útil ou serviu como referência, deixe uma estrela no repositório!
